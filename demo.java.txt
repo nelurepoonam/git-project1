@@ -1,0 +1,7 @@
+ class stud
+{
+	public Static void main(String cp[])
+	{
+		System.out.println("hello poonam");
+	}
+}
