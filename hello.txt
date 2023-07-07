@@ -1,3 +1,2 @@
 hello world
-helio mahi
-helio poonam
+hello mahi
