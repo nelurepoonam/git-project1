@@ -1,0 +1,9 @@
+public class sp
+{
+	public Static void main(String cp[])
+	{
+		System.out.println("hello poonam");
+		System.out.println("hello mahi");
+		System.out.println("hello nelure");
+	}
+}
