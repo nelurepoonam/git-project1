@@ -1,7 +1,0 @@
-publuc class a
-{
-	public static void main(String cp[])
-	{
-		System.out.println("hey i a creating a file for a github repository");
-	}
-}
